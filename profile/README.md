@@ -1,8 +1,8 @@
 # Welcome to Pixorcist
 
-![pixorcist Logo](pixorcist-logo.jpeg)
+![pixorcist Logo]([pixorcist-logo.jpeg](https://i.imgur.com/E6KYvLT.jpg))
 
-Welcome to the official GitHub repository for [Your Organization Name]. We are dedicated to [briefly describe your organization's mission or purpose].
+Welcome to the official GitHub repository for [Pixorcist]. We are dedicated to [briefly describe your organization's mission or purpose].
 
 ## About
 
@@ -18,7 +18,7 @@ If you want to know more about us, our games, or our future projects, you can vi
 
 ---
 
-![banner](pixorcist-art.jpeg)
+![banner]([pixorcist-art.jpeg](https://i.imgur.com/dc4xMPz.jpg))
 
 ## Projects
 
@@ -34,7 +34,7 @@ We welcome contributions from the community! If you'd like to contribute to any 
 
 If you have questions or need to get in touch with us, you can reach out via email at [placeholdersite.com] or visit our [website](placeholder).
 
-Thank you for your interest in [Your Organization Name]!
+Thank you for your interest in [pixorcist]!
 
 ---
 
