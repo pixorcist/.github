@@ -1,6 +1,6 @@
 # Welcome to Pixorcist
 
-![pixorcist Logo]([pixorcist-logo.jpeg](https://i.imgur.com/E6KYvLT.jpg))
+![pixorcist Logo](../pixorcist-logo.jpeg)
 
 Welcome to the official GitHub repository for [Pixorcist]. We are dedicated to [briefly describe your organization's mission or purpose].
 
@@ -18,7 +18,7 @@ If you want to know more about us, our games, or our future projects, you can vi
 
 ---
 
-![banner]([pixorcist-art.jpeg](https://i.imgur.com/dc4xMPz.jpg))
+![banner](../pixorcist-art.jpeg)
 
 ## Projects
 
