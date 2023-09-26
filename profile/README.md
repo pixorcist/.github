@@ -18,7 +18,7 @@ If you want to know more about us, our games, or our future projects, you can vi
 
 ---
 
-![banner](pixorcist-art.jpeg)
+![banner](https://i.imgur.com/dc4xMPz.jpg)
 
 ## Projects
 
